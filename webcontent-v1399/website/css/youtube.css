@@ -1,0 +1,56 @@
+
+
+/* Youtube Styles.
+---------------------------------------------------------------------- */
+
+.youtubeBtn {
+	background-color:transparent !important; 
+	border:none !important;
+	height:22px !important; 
+	width:22px !important;
+}
+.youtubeBtn:disabled {	
+	cursor:default !important; /* Gets overridden in bootstrap without the !important */
+}
+
+.leftArrowBtn { background-image: url('../img/youtube/leftArrow.png'); }
+.leftArrowBtn:hover { background-image: url('../img/youtube/leftArrowHover.png'); }
+.leftArrowBtn:disabled { background-image: url('../img/youtube/leftArrowDisabled.png'); }
+
+.rightArrowBtn { background-image: url('../img/youtube/rightArrow.png'); }
+.rightArrowBtn:hover { background-image: url('../img/youtube/rightArrowHover.png'); }
+.rightArrowBtn:disabled { background-image: url('../img/youtube/rightArrowDisabled.png'); }
+
+.likeBtn { background-image: url('../img/youtube/like.png'); }
+.likeBtn:hover { background-image: url('../img/youtube/likeHover.png'); }
+.likeBtn:disabled { background-image: url('../img/youtube/likeDisabled.png'); }
+
+.dislikeBtn { background-image: url('../img/youtube/dislike.png'); }
+.dislikeBtn:hover { background-image: url('../img/youtube/dislikeHover.png'); }
+.dislikeBtn:disabled { background-image: url('../img/youtube/dislikeDisabled.png'); }
+
+.ytNavButton {
+	text-align: center;
+	margin-right: 10px;
+	float:right; 
+	width:100px; 
+	cursor:pointer;
+	-webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    border-radius: 10px;
+    box-shadow: none;
+	-webkit-box-shadow: none;
+}
+
+.ytNavButton:hover {
+	background-color: #444444;
+}
+
+.ytAdd {
+	padding:1px;
+}
+
+.ytAdd:hover {
+	border: 1px solid #FFFFFF;
+	padding:0px;
+}

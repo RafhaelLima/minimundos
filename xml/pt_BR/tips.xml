@@ -1,0 +1,528 @@
+﻿<tips>
+
+
+	<!-- Promotions -->
+
+	<tip>
+
+		<icon>info.png</icon>
+
+		<content>Fique de olho nas promoções do Heblo - você pode fazer bons negócios!</content>
+
+		<weight>3</weight>
+
+	</tip>
+
+	<tip>
+
+		<icon>info.png</icon>
+
+		<content>Os itens mais populares do Heblo estão disponíveis apenas nas nossas promoções.</content>
+
+		<weight>3</weight>
+
+	</tip>
+
+	
+	<!-- General -->
+
+	<tip>
+
+		<icon>info.png</icon>
+
+		<content>O Heblo tem o seu próprio relógio, a HabHora. Você encontra ele no topo direito da sua tela quando você está dentro do mundo.</content>
+
+		<weight>3</weight>
+
+	</tip>
+
+	<tip>
+
+		<icon>info.png</icon>
+
+		<content>Na janela de Alertas você pode escolher quais os tipos de alertas que você quer receber!</content>
+
+		<weight>3</weight>
+
+	</tip>
+
+	
+	<!-- Places -->
+
+	<tip>
+
+		<icon>info.png</icon>
+
+		<content>Jogar sinuca é uma ótima forma de fazer amigos. No Bobby Bar tem várias mesas! Conheça e pessoas e divirta-se!</content>
+
+	</tip>
+
+	<tip>
+
+		<icon>info.png</icon>
+
+		<content>Você pode criar seu próprio mundo no Heblo! </content>
+
+	</tip>
+
+	
+	<!-- Shopping -->
+
+	<tip>
+		
+		<icon>info.png</icon>
+
+		<content>Quer mudar de visual? Dê um pulo na HabModa e experiemente o que há de mais moderno no Heblo!</content>
+
+	</tip>
+
+	<tip>
+
+		<icon>info.png</icon>
+
+		<content>Casa Moderna tem tudo o que você precisa para redecorar a sua casa!</content>
+
+	</tip>
+
+		
+<!-- Earning Money -->
+
+	<tip>
+
+		<icon>info.png</icon>
+
+		<content>Todos são ganhadores no Rode a Roda. Você pode ganhar até 100.000 Moedas de Ouro a cada 6 horas na sua página principal!</content>
+
+	</tip>
+
+	<tip>
+
+		<icon>info.png</icon>
+
+		<content>HabFichas são as moedas que você ganha por suas conquistas no Heblo.</content>
+
+	</tip>
+
+	<tip>
+
+		<icon>info.png</icon>
+
+		<content>Você sabia que você pode ganhar Pontos Cidadãos convidando amigos para jogar Heblo?</content>
+
+	</tip>
+
+	
+<tip>
+
+		<icon>info.png</icon>
+
+		<content>Colecionáveis Mensais podem ser um bom investimento. Seu valor rende bem ao longo do tempo. E você poderá vender com um bom lucro.</content>
+	</tip>
+
+	<tip>
+
+		<icon>info.png</icon>
+
+		<content>Missões são uma forma divertida de conseguir HabFichas e XP. Faça uma hoje mesmo!</content>
+
+		<weight>3</weight>
+
+	</tip>
+
+	<tip>
+
+		<icon>info.png</icon>
+
+		<content>Se você comprou um item e não quer mais ele, venda-o para o sistema e receba parte do pagamento.</content>
+
+		<weight>3</weight>
+
+	</tip>
+
+	<tip>
+
+		<icon>info.png</icon>
+
+		<content>Se você convidar um amigo para o jogo e ele atingir 1000 pontos de XP, você receberá 20 PCs!</content>
+
+	</tip>
+
+	<tip>
+
+		<icon>info.png</icon>
+
+		<content>As missões de tutoriais são ótimas para ganhar algumas HabFichas e Conhecimento!</content>
+
+	</tip>
+
+		
+<!-- VIP -->
+
+	<tip>
+
+		<icon>info.png</icon>
+
+		<content>Quer que seu Hab tenha não apenas 1, mas 3 modos de dançar? Torne-se um Membro VIP agora!</content>
+
+	</tip>
+
+	<tip>
+
+		<icon>info.png</icon>
+
+		<content>Ser VIP desbloqueia muitas roupas e aparências para você personalizar seu Hab!</content>
+
+	</tip>
+
+	<tip>
+
+		<icon>info.png</icon>
+
+		<content>Os VIP podem criar alertas dentro do Heblo!</content>
+
+		<weight>3</weight>
+
+	</tip>
+
+	<tip>
+
+		<icon>info.png</icon>
+
+		<content>Quando você se torna VIP, você também ganha Pontos Cidadão!</content>
+
+	</tip>
+
+	<tip>
+
+		<icon>info.png</icon>
+
+		<content>A cada 1 mês VIP adquirido, você recebe 60 Pontos Cidadão (3 níveis). VIP por 12 meses serão 720 Pontos Cidadão (36 níveis)!</content>
+
+	</tip>
+
+	<tip>
+
+		<icon>info.png</icon>
+
+		<content>Comprando os pacotes VIP na HabLoja, você receberá HabMoedas e NC no Heblo.</content>
+
+	</tip>
+
+	<tip>
+
+		<icon>info.png</icon>
+
+		<content>VIPs podem acessar espaços e itens exclusivos!</content>
+
+		<weight>3</weight>
+
+	</tip>
+
+	<tip>
+
+		<icon>info.png</icon>
+
+		<content>Compre um ano de VIP e receba 1 especial item que não é vendidos nas lojas. É nossa forma de dizer "obrigado"!</content>
+
+	</tip>
+
+	<tip>
+
+		<icon>info.png</icon>
+
+		<content>Você pode usar suas HabMoedas para comprar seu VIP no Heblo.</content>
+
+	</tip>
+
+	
+	<!-- Citizen Points -->
+
+	<tip>
+
+		<icon>info.png</icon>
+
+		<content>Convide seus amigos e ganhe Pontos de Cidadão. Você terá muitos benefícios com isso!</content>
+
+	</tip>
+
+	<tip>
+
+		<icon>info.png</icon>
+
+		<content>Se você ganhar suficientes Pontos Cidadãos, receberá Fichas e XP bônus quando completar as missões.</content>
+
+	</tip>
+
+	<tip>
+
+		<icon>info.png</icon>
+
+		<content>Complete os Desafios de Glória Semanais e ganhe prêmios exclusivos.</content>
+
+	</tip>
+
+	<tip>
+
+		<icon>info.png</icon>
+
+		<content>Quanto mais Pontos Cidadão você ganha, mais bônus você recebe!</content>
+
+		<weight>3</weight>
+
+	</tip>
+
+	<tip>
+
+		<icon>info.png</icon>
+
+		<content>Com Pontos Cidadão você pode virar Duque ou Duquesa do Heblo!</content>
+
+	</tip>
+
+	<tip>
+
+		<icon>info.png</icon>
+
+		<content>Pontos Cidadão podem ser usados para aumentar para sempre a saúde e velocidade do seu Hab.</content>
+
+	</tip>
+
+	<tip>
+
+		<icon>info.png</icon>
+
+		<content>Convide um amigo de uma rede social e ganhe 1 Nível Cidadão!</content>
+
+		<weight>3</weight>
+
+	</tip>
+
+	<tip>
+
+		<icon>info.png</icon>
+
+		<content>Quando o amigo que você convidou completar 1000XP você ganha 20 Pontos Cidadão.</content>
+
+	</tip>
+		
+<!-- Experience -->
+
+	<tip>
+
+		<icon>info.png</icon>
+
+		<content>XP significa Pontos de Experiência. Você pode ganhar XP completando missões, jogando Hab-games, e fazendo outras atividades no Heblo.</content>
+
+	</tip>
+	
+	<tip>
+
+		<icon>info.png</icon>
+
+		<content>Quando você sobe de nível você ganha um bônus em HabFichas!</content>
+
+	</tip>
+
+	<tip>
+
+		<icon>info.png</icon>
+
+		<content>Quando você completar 1000 Pontos de Experiência você receberá um bônus!</content>
+
+	</tip>
+
+	<tip>
+
+		<icon>info.png</icon>
+
+		<content>Um nível de experiência alto desbloqueia itens especiais no Heblo.</content>
+
+		<weight>3</weight>
+
+	</tip>
+
+	<tip>
+
+		<icon>info.png</icon>
+
+		<content>Você só pode usar algumas roupas e magias se tiver um certo nível de XP.</content>
+
+	</tip>
+
+		<!-- Attributes -->
+
+	<tip>
+
+		<icon>info.png</icon>
+
+		<content> Os atributos definem a Velocidade, Saúde e Resistência do seu Hab.</content>
+
+	</tip>
+
+	<tip>
+
+		<icon>info.png</icon>
+
+		<content>A saúde de seu Hab representa quanto de dano em um ataque ele pode aguentar.</content>
+
+	</tip>
+
+	<tip>
+
+		<icon>info.png</icon>
+
+		<content>A Velocidade do seu Hab determina quão rápido ele pode se mover.</content>
+
+	</tip>
+
+	<tip>
+
+		<icon>info.png</icon>
+
+		<content>A Resistência do seu Hab aumenta a proteção contra ataques de magias e feitiços de qualquer tipo.</content>
+
+		<weight>3</weight>
+
+	</tip>
+
+	
+	<!-- Site -->
+
+	<tip>
+
+		<icon>info.png</icon>
+
+		<content>A comunidade do Heblo é um ótimo lugar para ficar por dentro do que acontece no jogo!</content>
+
+	</tip>
+
+	<tip>
+		<icon>info.png</icon>
+
+		<content>Ajudantes no Heblo tem um sinal de [+] sobre suas cabeças e usam uma capa, encontre com eles na Central de Informações!</content>
+
+	</tip>
+
+	<tip>
+
+		<icon>info.png</icon>
+
+		<content>Se você encontrar alguém com um triângulo amarelo na cabeça, isso significa que não é um jogador, mas um robô. Eles tem inteligência artificial!</content>
+
+	</tip>
+
+	
+	<!-- Interface -->
+
+	<tip>
+
+		<icon>info.png</icon>
+
+		<content>Se você tiver muitos itens no seu inventário, a maneira mais fácil de encontrar é usando o campo 'Pesquisa'.</content>
+
+	</tip>
+
+	<tip>
+
+		<icon>info.png</icon>
+
+		<content>Adicione itens de vestuário na sua barra de ações para mudar rapidamente de visual.</content>
+
+	</tip>
+
+	<tip>
+
+		<icon>info.png</icon>
+
+		<content>Se você segurar o botão "shift" quando estiver rodando o espaço, ele irá rodar na direção oposta.</content>
+
+	</tip>
+
+	<tip>
+
+		<icon>info.png</icon>
+
+		<content>Você pode usar um item dando um duplo-clique nele com o mouse.</content>
+
+		<weight>3</weight>
+
+	</tip>
+
+	<tip>
+
+		<icon>info.png</icon>
+
+		<content>Você pode usar a rodinha do mouse para aproximar ou afastar o zoom do Heblo.</content>
+
+	</tip>
+
+	<tip>
+
+		<icon>info.png</icon>
+
+		<content>Você sabia que pode usar as teclas Funcionais (F1, F2, etc) como atalhos para a barra de ações?</content>
+
+	</tip>
+
+	<tip>
+		<icon>info.png</icon>
+
+		<content>Você pode enviar um presente para alguém clicando no item e arrastando para o Hab da pessoa.</content>
+
+	</tip>
+
+	<tip>
+
+		<icon>info.png</icon>
+
+		<content>Encontre seu caminho em mundos espaçosos usando o Hab-mapa.</content>
+
+	</tip>
+
+	
+	<!-- Community -->
+
+	<tip>
+
+		<icon>info.png</icon>
+
+		<content>Você gosta de arte? Tem uma comunidade de arte aqui no Heblo!</content>
+
+	</tip>
+
+	<tip>
+
+		<icon>info.png</icon>
+
+		<content>Respeito é importante no Heblo! Trate todo mundo de maneira legal e faça muitos amigos aqui!</content>
+
+	</tip>
+
+	<tip>
+
+		<icon>info.png</icon>
+
+		<content>Auxiliares do Heblo ajudam outros no jogo respondendo perguntas, e dando dicas (nunca respostas) para as missões.</content>
+
+	</tip>
+
+	
+	<!-- Staying Safe -->
+
+	<tip>
+
+		<icon>info.png</icon>
+
+		<content>Nunca compartilhe o seu Nome e senha! O Heblo NUNCA vai pedir isso para você.</content>
+
+	</tip>
+
+	<tip>
+
+		<icon>info.png</icon>
+
+		<content>O Heblo nunca irá mandar um e-mail pedindo HabMoedas ou HabFichas.</content>
+
+	</tip>
+
+	</tips>

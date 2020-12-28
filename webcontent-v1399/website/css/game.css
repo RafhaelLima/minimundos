@@ -1,0 +1,216 @@
+/* ----------------------------------------------------------------------
+ * Filename:			game.css
+ * Description:			CSS file for SmallWorlds game support.
+ * Website:				http://www.smallworlds.com
+ * Author:				Matt Tatnell
+---------------------------------------------------------------------- */
+
+
+/* Main Game Styles
+---------------------------------------------------------------------- */
+
+#mainContainer {
+	position: absolute;
+	width: 100%;
+	top: 0px;
+	bottom: 0px;
+}
+
+.unloadedMessage {
+	padding-top: 200px;
+	text-align: center;
+}
+
+/* Fancybox Override Styles
+---------------------------------------------------------------------- */
+
+.fancybox-overlay {
+	background: none;
+}
+
+.fancybox-lock .fancybox-overlay {
+    overflow-y: auto;
+}
+
+.fancybox-skin {
+	background-color: #18B0D3;
+	border: 1px solid #8CD8E9;
+	border-radius: 10px;
+}
+
+.fancybox-close {
+	background-image: url('../img/button_close.png');
+	top: 8px;
+	right: 10px;
+	width: 22px;
+	height: 22px;
+}
+.fancybox-close:hover { background-image: url('../img/button_close_hover.png'); }
+.fancybox-close:active { background-image: url('../img/button_close_down.png'); }
+
+
+/* Widget Mode Styles
+---------------------------------------------------------------------- */
+
+#widgetContainer {
+	position: absolute;
+	height: 100%;
+}
+
+#chatboxContainer {
+	position: absolute;
+	right: 0px;
+	width: 290px;
+	height: 490px;
+}
+
+#closeButton {
+	position: absolute;
+	top: 6px;
+	right: 6px;
+}
+
+
+/* Snapshot Styles
+---------------------------------------------------------------------- */
+
+#snapshotContainer {
+	position: absolute;
+	top: 0px;
+	left: 0px;
+	right: 0px;
+	bottom: 0px;
+}
+
+
+/* Goal Banner Styles
+---------------------------------------------------------------------- */
+
+.goal-banner {
+	background-color: #f0c600;
+	font-family: font-header;
+	color: #fff;
+	padding: 5px;
+	display: none;
+}
+
+.goal-banner .inner {
+	max-width: 1150px;
+	height: 75px;
+	margin-left: auto;
+	margin-right: auto;
+	position: relative;
+}
+
+.goal-banner .heart {
+	display: inline-block;
+	background-image: url(../img/heart24.png);
+	width: 24px;
+	height: 24px;
+	vertical-align: top;
+	margin-top: 15px;
+}
+
+.goal-banner .intro {
+	display: inline-block;
+	width: 630px;
+	font-size: 16px;
+	line-height: 14px;
+	padding: 0 5px;
+	text-shadow: -1px -1px 1px #00000063, 1px 1px 1px #00000057;
+}
+
+.goal-banner .link {
+	text-decoration: underline;
+	font-size: 16px;
+	margin: 5px 0;
+	text-shadow: none;
+	text-align: center;
+}
+
+.goal-banner .link a {
+	color: #635700;
+}
+
+.goal-banner .countdown {
+	display: inline-block;
+	color: #ffffff;
+	font-family: font-header;	
+	text-align: center;
+	vertical-align: top;
+}
+
+.goal-banner .countdown .countdown-header {
+	font-size: 11px;
+	line-height: 16px;
+	padding-bottom: 2px;
+	text-shadow: -1px -1px 1px #00000063, 1px 1px 1px #00000057;
+}
+
+.goal-banner .countdown span.unit {
+	color: #f0c600;
+	background-color: #ffffff;
+	border-radius: 6px;
+	font-size: 30px;
+	display: inline-block;
+	padding: 8px 2px;
+	height: 19px;
+	width: 35px;	
+	text-shadow: -1px -1px 1px #00000050;
+}
+
+.goal-banner .countdown span.connector {
+	display: inline-block;
+	width: 2px;
+}
+
+.goal-banner .countdown span.denomination {
+	float: left;
+	font-size: 11px;
+	width: 49px;
+	text-shadow: -1px -1px 1px #00000063, 1px 1px 1px #00000057;
+}
+
+.goal-banner .percentage {
+	background-color: #af9a01;
+	display: inline-block;
+	border-radius: 6px;
+	padding: 10px 3px;
+	font-size: 30px;
+	margin: 17px 20px;
+	vertical-align: top;
+	text-shadow: -1px -1px 1px #00000063, 1px 1px 1px #00000057;
+}
+
+.goal-banner .progress-area {
+	display: inline-block;
+	font-size: 12px;
+	color: #635700;
+	text-align: center;
+	vertical-align: top;
+	margin-top: 22px;
+}
+
+.goal-banner .percentage-bar {
+	background-color: #af9a01;
+	border-radius: 6px;
+	display: inline-block;
+	position: relative;
+	width: 130px;
+	height: 20px;	
+	overflow: hidden;
+	vertical-align: top;
+}
+
+.goal-banner .percentage-bar .filled {
+	background-color: #fff;
+	position: absolute;
+	height: 20px;
+}
+
+.goal-banner .close {
+	position: absolute;
+	top: 0px;
+	right: 0px;
+	cursor: pointer;
+}
